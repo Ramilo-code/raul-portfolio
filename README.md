@@ -15,7 +15,7 @@ Este site foi criado para apresentar meus projetos, habilidades e trajetória co
 Acesse o site em: https://raul-portifolio.netlify.app/
 
 ## 📞 Contato
-- E-mail: raul.emilio@example.com
+- E-mail: raulemilio162@gmail.com
 - LinkedIn: https://linkedin.com/in/raulemilio
 - facebook: https://www.facebook.com/rauljoaoemilio.jt
 - intagram: https://www.instagram.com/raul_nas_cifras/
